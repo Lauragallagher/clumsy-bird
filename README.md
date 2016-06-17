@@ -18,7 +18,7 @@ Play online at http://ellisonleao.github.io/clumsy-bird/
 npm install
 ```
 
-Then just type on your shell:
+Then just type on your shell :
 
 ```
 grunt connect
